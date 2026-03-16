@@ -1,0 +1,11 @@
+pyfolio
+matplotlib
+backtrader
+seaborn
+quantstats
+scikeras
+tensorflow
+squarify
+vnstock==0.2.9.0
+pandas==2.0.3
+numpy==1.24.3
